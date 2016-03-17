@@ -1,6 +1,6 @@
 {
   "name": "Pocketbook",
   "tagline": "jQuery project",
-  "body": "# Pocketbook\r\n\r\n##Purpose\r\nPocketbook adds an error message if any of the form fields are filled out incorrectly.\r\n\r\n<img src=\"http://i.imgur.com/yGaxsuR.gif\"/>\r\n",
+  "body": "# Pocketbook\r\n\r\n##Purpose\r\nPocketbook adds an error message if any of the form fields are filled out incorrectly.\r\nMore logic can be added to clear out the errors when the fields are filled out.\r\n\r\n<img src=\"http://i.imgur.com/yGaxsuR.gif\"/>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
